@@ -104,7 +104,7 @@ WHERE Booking_Status = 'Success';
 <img src="images/dashboard_images/Screenshot 2024-12-15 195004.png" alt="Dashboard" width="800"/>
 
 <h2>🎥 Dashboard Demo</h2>
-<img src="images/demo.gif" alt="Demo" width="800"/>
+<img src="images/Ola Dashboard Project DEMO.gif" alt="Demo" width="800"/>
 
 <h2>📁 Project Structure</h2>
 <pre>
