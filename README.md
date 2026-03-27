@@ -101,7 +101,7 @@ WHERE Booking_Status = 'Success';
 </ul>
 
 <h2>📸 Dashboard Preview</h2>
-<img src="images/dashboard_images.png" alt="Dashboard" width="800"/>
+<img src="images/dashboard_images/Screenshot 2024-12-15 195004.png" alt="Dashboard" width="800"/>
 
 <h2>🎥 Dashboard Demo</h2>
 <img src="images/demo.gif" alt="Demo" width="800"/>
