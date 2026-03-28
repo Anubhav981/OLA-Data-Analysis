@@ -2,17 +2,16 @@
 
 <h2>📌 Project Overview</h2>
 <p>
-This project focuses on analyzing ride booking data for Bengaluru city using SQL and Power BI. 
-The dataset contains 1 lakh ride records generated for one month to simulate real-world ride-hailing scenarios.
+The OLA Data Analyst Project analyzes ride-booking data using SQL and Power BI to track ride volumes, customer behavior, and driver performance. It focuses on booking statuses, revenue breakdowns by payment method, and top customers. SQL queries are used to calculate ride statistics, and the final Power BI dashboard visualizes key data, including ride volumes, vehicle performance, and sales. The analysis helps optimize OLA's services by identifying trends and areas for improvement.
 </p>
 
-<p>The objective is to extract meaningful insights related to:</p>
+<!-- <p>The objective is to extract meaningful insights related to:</p>
 <ul>
   <li>Booking trends</li>
   <li>Cancellation patterns</li>
   <li>Revenue analysis</li>
   <li>Customer & driver behavior</li>
-</ul>
+</ul> -->
 
 <h2>🎯 Objectives</h2>
 <ul>
